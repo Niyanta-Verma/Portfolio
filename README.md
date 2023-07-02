@@ -1,4 +1,4 @@
-<h1>Project 1: Unraveling Domino's</h1>
+# [Project 1: Unraveling Domino's](https://github.com/Niyanta-Verma/Dominos-data-analysis)
 <h2>Domino's Data Analysis and Visualization using Power BI</h2>
 
 <h3>1. Metadata:</h3>
